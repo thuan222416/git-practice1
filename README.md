@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là Lê Bình Thuận, MSSV <222416>.
+Đây là THAY ĐỔI TỪ NHÁNH MAIN.
