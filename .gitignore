@@ -1,0 +1,5 @@
+# Bỏ qua toàn bộ nội dung trong thư mục log/
+log/
+
+# Bỏ qua tất cả các file có đuôi .log trong bất kỳ thư mục nào
+*.log
